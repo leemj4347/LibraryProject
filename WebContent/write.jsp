@@ -20,5 +20,4 @@
 	
 	BookController controller = new BookController();
 	int result = controller.insert(book);
-	
 %>
